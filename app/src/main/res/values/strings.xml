@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Soccer Scores</string>
+    <string name="action_settings">Settings</string>
+    <string name="test_text">Test</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="champions_league">UEFA Champions League</string>
+    <string name="bundesliga">Bundesliga</string>
+    <string name="premierleague">Premier League</string>
+    <string name="primeradivison">Primera Division</string>
+    <string name="seriaa">Serie A</string>
+    <string name="matchday_text">Match day</string>
+    <string name="group_stage_text">Group stages</string>
+    <string name="first_knockout_round">First knockout round</string>
+    <string name="quarter_final">Quarter Final</string>
+    <string name="semi_final">Semi Final</string>
+    <string name="final_text">Final</string>
+    <string name="share_text">Share</string>
+    <string name="about">About</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="about_text">
+        This Application gets Soccer Match Scores for the Premier League, Seria A, Bundesliga, Primera Division
+        and the Uefa Champions League.\n
+
+        All Matches data are acquired from football-data.org free API.\n
+
+        This app is a modified version of the one provided to students in the Udacity Android Nanodegree program.
+    </string>
+
+    <string name="api_key">5073119c225e4b598b9f833578c4364b</string>
+    <string name="empty_view_message">No data available</string>
+    <string name="title_widget_detail">Soccer Details</string>
+
+    <string name="league_name_serie_a">Serie A</string>
+    <string name="league_name_premier_league">Premier League</string>
+    <string name="league_name_champions_league">UEFA Champions League</string>
+    <string name="league_name_primera_division">Primera Division</string>
+    <string name="league_name_bundesliga">Bundesliga</string>
+    <string name="league_name_not_known">Not known League Please report</string>
+
+    <string name="match_day_group_stages">Group Stages, Matchday : 6</string>
+    <string name="match_day_first_knockout">First Knockout round</string>
+    <string name="match_day_quarter_final">QuarterFinal</string>
+    <string name="match_day_semifinal">SemiFinal</string>
+    <string name="match_day_final">Final</string>
+    <string name="match_day_default">"Matchday : "</string>
+
+    <string name="past_match_description">%1$s %2$s %3$s. The time of the match was %4$s on %5$s.</string>
+    <string name="upcoming_match_description">The results for the match between %1$s and %2$s are
+        not available yet. The scheduled time of the match is %3$s on %4$s.</string>
+
+</resources>
